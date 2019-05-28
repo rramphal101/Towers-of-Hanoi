@@ -13,3 +13,7 @@ The objective of the puzzle is to move the entire tower from the first rod to th
 3. Disks can only be moved if it is at the top of its stack. 
 
 The number of moves required to complete the puzzle is: 2^n - 1, where n is the number of disks.
+
+#### To complie and run:
+- You can use a C++ compiler such as `g++ TowersOfHanoi.cpp`
+- Then run the executable file with `./a.out`
